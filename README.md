@@ -11,6 +11,7 @@ I'm Uthan Hercules, Graphic designer transitioning to Web Development that until
 I'm live in Salvador, Brazil, and currently studying technologies to create beautiful and functional web applications and sites on Cubos Academy 👨‍💻.
 
 <h2>💻Technologies</h2>
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Node.Js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg) ![Illustrator Badge](https://aleen42.github.io/badges/src/illustrator.svg)
 
 -   Front-end development using **HTML5**, **CSS3**, **JavaScript** and **ReactJs**.
