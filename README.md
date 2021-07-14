@@ -28,4 +28,4 @@ I'm live in Salvador, Brazil, and currently studying technologies to create beau
 -   I **REALLY** like RPGs.
 -   I don't like Social Media.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=uthanhercules&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uthanhercules&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=uthanhercules&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uthanhercules&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
