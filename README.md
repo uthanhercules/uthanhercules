@@ -2,7 +2,7 @@
 
 <img align='right' src='https://i.pinimg.com/originals/d5/d8/15/d5d8153410d12ed43e340059ebc8ec15.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthanh/)[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uthanhercules)[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22umontdqgmp5inrubeehzk7y?si=ef3af91a322a4c6a)[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaoms/)
+<a href="mailto:uthanh@protonmail.com" target="_blank"><img alt="mail" width="135px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/uthanh/" target="_blank"><img alt="linkedin" width="114px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://open.spotify.com/user/22umontdqgmp5inrubeehzk7y?si=ef3af91a322a4c6a" target="_blank"><img alt="spotify" width="104px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a><a href="https://steamcommunity.com/id/kaoms/" target="_blank"><img alt="steam" width="90px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
 I'm Uthan Hercules, Graphic designer transitioning to Web Development that until now didn't know how to choose between Front-end or Back-end and that's why he followed the Full Stack.
 
