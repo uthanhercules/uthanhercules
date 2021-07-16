@@ -4,7 +4,7 @@
 
 <a href="mailto:uthanh@protonmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthanh/)[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22umontdqgmp5inrubeehzk7y?si=ef3af91a322a4c6a)[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaoms/)
 
-I'm Uthan Hercules, Graphic designer transitioning to Web Development that until now didn't know how to choose between Front-end or Back-end and that's why he followed the Full Stack.
+I'm Uthan Hercules, Graphic designer transitioning to Web Development that until now didn't know how to choose between Front-end or Back-end and that's why I become Full Stack.
 
 🧙RPG player in his spare time and 📝writer all the time, I seek to use programming like a pencil to bring to life the most diverse imaginations!
 
