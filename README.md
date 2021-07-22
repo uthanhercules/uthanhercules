@@ -16,7 +16,7 @@ I'm live in Salvador, Brazil, and currently studying technologies to create beau
 
 -   Front-end development using **HTML5**, **CSS3**, **JavaScript** and **ReactJs**.
 -   Back-end development using **Node.Js** and **PostgreSQL**.
--   Knowledge in **CRUD SQL** and **REST API**.
+-   Knowledge in **CRUD SQL**, **Relational Database** and **REST API**.
 -   Knowledge in **Material Design** and **HTML DOM**.
 -   I also do Graphic Design using **Adobe Illustrator** and **Adobe Photoshop**.
 
