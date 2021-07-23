@@ -8,7 +8,7 @@ I'm Uthan Hercules, Graphic designer transitioning to Web Development that until
 
 🧙RPG player in his spare time and 📝writer all the time, I seek to use programming like a pencil to bring to life the most diverse imaginations!
 
-I'm live in Salvador, Brazil, and currently studying technologies to create beautiful and functional web applications and sites on Cubos Academy 👨‍💻.  
+I'm live in Salvador, Brazil, and currently studying technologies to create beautiful and functional web sites and applications on Cubos Academy 👨‍💻.  
   
 <h2>💻Technologies</h2>
 
