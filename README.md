@@ -2,7 +2,7 @@
 
 <img align='right' src='https://i.pinimg.com/originals/d5/d8/15/d5d8153410d12ed43e340059ebc8ec15.gif' width='200"'>
 
-I'm Uthan Hercules, Graphic designer transitioning to Web Development that until now didn't know how to choose between Front-end or Back-end and that's why I become Full Stack.
+I'm Uthan Hercules, Graphic designer and Web Develoer that until now didn't know how to choose between Front-end or Back-end and that's why I become Full Stack.
 
 🧙RPG player in his spare time and 📝writer all the time, I seek to use programming like a pencil to bring to life the most diverse imaginations!
 
