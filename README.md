@@ -1,6 +1,4 @@
-<h1><img src="https://i.pinimg.com/originals/bd/e1/22/bde1222aadc4a3f8cf0b16dc8909b58c.gif" width="30px"> Alloo, people! <img src="https://i.pinimg.com/originals/bd/e1/22/bde1222aadc4a3f8cf0b16dc8909b58c.gif" width="30px"></h1>
-
-<img align='right' src='https://i.pinimg.com/originals/d5/d8/15/d5d8153410d12ed43e340059ebc8ec15.gif' width='200"'>
+<h1>Alloo, people!</h1>
 
 I'm Uthan Hercules, Graphic designer and Web Develoer that until now didn't know how to choose between Front-end or Back-end and that's why I become Full Stack.
 
