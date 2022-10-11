@@ -4,7 +4,7 @@ I'm Uthan Hercules, Graphic designer and Web Develoer that until now didn't know
 
 🧙RPG player in his spare time and 📝writer all the time, I seek to use programming like a pencil to bring to life the most diverse solutions!
 
-I'm live in Salvador, Brazil, and currently working as Monitor on Cubos Academy👨‍💻 and as Full Stack Web Developer on Ford Motor Company🚗.  
+I live in Salvador, Brazil, and currently working as Mentor on Cubos Academy and as Back-end Dveloper on Weedo.it.  
   
 <h2>💻Technologies</h2>
 
