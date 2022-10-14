@@ -1,19 +1,33 @@
-<h1>Alloo, people!</h1>
+<h1>👨‍💻Alloo, people!</h1>
 
-I'm Uthan Hercules, Graphic designer and Web Develoer that until now didn't know how to choose between Front-end or Back-end and that's why I become Full Stack.
+<img src="https://i.pinimg.com/originals/f2/34/51/f2345141c173e46a710691be5d0befe8.gif" align="right" width="300" />
+<p align="left">
+  Full Stack Web Developer, Graphic Designer, Writer, RPG player and owner of a unique name. This is me: Uthan Hercules! 🐙💜
 
-🧙RPG player in his spare time and 📝writer all the time, I seek to use programming like a pencil to bring to life the most diverse solutions!
+  I discovered my love for software development by playing ⚔️Final Fantasy 3 as a kid. My mom still says that, after receiving a 🕹️ nintendo on my birthday, I looked at her and said "I want to work with computers and creating games!". Of course, I didn't even know how I was going to do that, let alone what software was, but everything would change when the blogging era arrived and I started studying creating and editing templates with those 💿Web Designer CDs from the 2000s.
 
-I live in Salvador, Brazil, and currently working as Mentor on Cubos Academy and as Back-end Dveloper on Weedo.it.  
+  With that name in my head I ended up becoming 🎨Graphic Designer by accident, because I thought they were the ones who created the entire website, but thanks to this accident I met Cubos, who told me about Cubos Academy and made me become a 💻web developer. In addition, I also started 🎮producing games and 📝writing books as a hobby.
+
+  I primarily develop with React and NodeJS, both with TypeScript, but I have already produced with Angular, Vue and Java with Springboot. In both cases, I usually use PostgreSQL or MariaDB as a database. Thanks to my Designer roots, I really enjoy playing around with CSS/SCSS and it's one of the things I find most fun about the Front End!
+
+  I use my design and programming skills like a pencil to draw and write the most diverse solutions and imaginations!
+</p>
   
 <h2>💻Technologies</h2>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SCSS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />![Node.Js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS/SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
--   Front-end development using **HTML5**, **CSS3**, **SASS**, **JavaScript**, **ReactJs**, **Angular 2+** and **Vue3**.
--   Back-end development using **Node.Js** and **PostgreSQL**.
+-   Front-end development using **TypeScript**, **SASS/SCSS**, **ReactJs**, **Angular 2+** and **Vue 3**.
+-   Back-end development using **Node.Js** with **TypeScript**, **PostgreSQL** and **MariaDB**.
 -   Knowledge in **CRUD SQL** with **Relational Database** and **REST API**.
--   Knowledge in **Material Design** and **HTML DOM**.
+-   Knowledge in **Material Design**, **Chakra UI**, **Tailwind** and **DOM**.
 -   I also do Graphic Design using **Adobe Illustrator**, **Adobe Photoshop** and **Figma** .
 
 <h2>🤖Little things about me</h2>
@@ -24,6 +38,8 @@ I live in Salvador, Brazil, and currently working as Mentor on Cubos Academy and
 -   I **REALLY** like RPGs.
 -   I don't like Social Media.
 
-<a href="mailto:uthanh@protonmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthanh/)[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22umontdqgmp5inrubeehzk7y?si=ef3af91a322a4c6a)[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaoms/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthanh/)
+[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaoms/)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=uthanhercules&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uthanhercules&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=uthanhercules&theme=darcula&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uthanhercules&theme=darcula&layout=compact)
