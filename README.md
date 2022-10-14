@@ -41,5 +41,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthanh/)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaoms/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=uthanhercules&theme=darcula&show_icons=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uthanhercules&theme=darcula&layout=compact)
