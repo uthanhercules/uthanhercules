@@ -1,11 +1,11 @@
 # 👨‍💻 Allo, People!
 
-<img src="https://64.media.tumblr.com/8e2d882c28bbad6a44b54bcdf61d9fb1/c401a0de5d798a20-48/s400x600/8b767a220c0bc867b1be3591d27c0cf67caaddab.gifv" align="right" />
-
 #### Uthan Hercules
 ###### Full Stack Web Developer | Graphic Designer | Writer | RPG Enthusiast | Proud owner of a unique name 🐙
 
 #
+
+<img src="https://64.media.tumblr.com/8e2d882c28bbad6a44b54bcdf61d9fb1/c401a0de5d798a20-48/s400x600/8b767a220c0bc867b1be3591d27c0cf67caaddab.gifv" align="right" />
 
 #### 🕹️ My Journey into Software Development
 
