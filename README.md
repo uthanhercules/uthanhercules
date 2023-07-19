@@ -1,44 +1,50 @@
-<h1>👨‍💻Alloo, people!</h1>
+# 👨‍💻 Allo, People!
 
-<img src="https://i.pinimg.com/originals/f2/34/51/f2345141c173e46a710691be5d0befe8.gif" align="right" width="300" />
-<p align="left">
-  Full Stack Web Developer, Graphic Designer, Writer, RPG player and owner of a unique name. This is me: Uthan Hercules! 🐙💜
+<img src="https://64.media.tumblr.com/8e2d882c28bbad6a44b54bcdf61d9fb1/c401a0de5d798a20-48/s400x600/8b767a220c0bc867b1be3591d27c0cf67caaddab.gifv" align="right" />
 
-  I discovered my love for software development by playing ⚔️Final Fantasy 3 as a kid. My mom still says that, after receiving a 🕹️ nintendo on my birthday, I looked at her and said "I want to work with computers and creating games!". Of course, I didn't even know how I was going to do that, let alone what software was, but everything would change when the blogging era arrived and I started studying creating and editing templates with those 💿Web Designer CDs from the 2000s.
+#### Uthan Hercules
+###### Full Stack Web Developer | Graphic Designer | Writer | RPG Enthusiast | Proud owner of a unique name 🐙
 
-  With that name in my head I ended up becoming 🎨Graphic Designer by accident, because I thought they were the ones who created the entire website, but thanks to this accident I met Cubos, who told me about Cubos Academy and made me become a 💻web developer. In addition, I also started 🎮producing games and 📝writing books as a hobby.
+#
 
-  I primarily develop with React and NodeJS, both with TypeScript, but I have already produced with Angular, Vue and Java with Springboot. In both cases, I usually use PostgreSQL or MariaDB as a database. Thanks to my Designer roots, I really enjoy playing around with CSS/SCSS and it's one of the things I find most fun about the Front End!
+#### 🕹️ My Journey into Software Development
 
-  I use my design and programming skills like a pencil to draw and write the most diverse solutions and imaginations!
-</p>
+As a child, I stumbled upon my passion for software development while immersed in the world of ⚔️ Final Fantasy 3. Upon receiving a 🕹️ Nintendo on my birthday, I excitedly declared to my mom, "I want to work with computers and create games!" At that point, I had no idea how I would accomplish this, nor did I fully grasp the concept of software. Little did I know, everything was about to change.
+
+The blogging era emerged, and I found myself engrossed in creating and editing templates using 💿 Web Designer CDs from the 00s. Despite my initial lack of knowledge, curiosity and determination propelled me forward.
+
+#### 🎨 Embracing a Unintended Path
+
+I unintentionally found myself becoming a 🎨Graphic Designer. At first, I believed that graphic designers were the ones responsible for creating entire websites. However, this happy accident led me to a pivotal moment when I crossed paths with a Software House, which transformed my journey, guiding me towards becoming a 💻 Web Developer.
+
+Alongside my newfound passion for web development, I also delved into the realms of 🎮 game development and 📝 book writing, cultivating them as cherished hobbies.
+
+#### 🖊️ Unleashing Creativity
+
+With each stroke of creativity, I seek to leave an imprint on the digital canvas, merging art and logic to shape incredible experiences by embracing the fusion of design and programming.
   
-<h2>💻Technologies</h2>
+## 💻 My Stack
 
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS/SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+-   Front-end development using ![Svelte](https://img.shields.io/badge/Svelte-ff3e00?logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-cc6699?logo=sass&logoColor=white)
+-   Back-end development using ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?logo=adonisjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+-   My code is writed on front-end and back-end using ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
+-   I create my Designs using ![Illustrator](https://img.shields.io/badge/Illustrator-ff9a00?logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-f24e1e?logo=figma&logoColor=white)
+-   Knowledge in **CRUD SQL** with **Relational Database** and **REST API**
+-   Knowledge in **Material Design**, **Chakra UI**, **Ant Design**, **Tailwind** and **DOM**
 
--   Front-end development using **TypeScript**, **SASS/SCSS**, **ReactJs**, **Angular 2+** and **Vue 3**.
--   Back-end development using **Node.Js** with **TypeScript**, **PostgreSQL** and **MariaDB**.
--   Knowledge in **CRUD SQL** with **Relational Database** and **REST API**.
--   Knowledge in **Material Design**, **Chakra UI**, **Tailwind** and **DOM**.
--   I also do Graphic Design using **Adobe Illustrator**, **Adobe Photoshop** and **Figma** .
+## 🤖 Little things about me
 
-<h2>🤖Little things about me</h2>
+-   I live in the matter of hobbies
+-   The first sentence is true
+-   **NEVER** question the second sentence
+-   I like RPGs and Fighting Games
+-   I don't like Social Media
 
--   I live in the matter of hobbies.
--   The first sentence is true.
--   **NEVER** question the second sentence.
--   I **REALLY** like RPGs.
--   I don't like Social Media.
+## 💼 Currently Working
+- 👨‍💻 Back-nd Developer on [Weedo.it](http://weedo.it/)
+- 👨‍🏫 Full Stack Mentor on [Cubos Academy](https://cubos.academy)
+- ⚔️ Personal Project to Unite Local RPG Players
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uthanh/)
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaoms/)
+## 📡 Let's Connect
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uthanhercules&theme=darcula&layout=compact)
+As I said, I don't like Social Media, but you can find me on [LinkedIn](https://www.linkedin.com/in/uthanh/). Connect with me and let's talk 😁
