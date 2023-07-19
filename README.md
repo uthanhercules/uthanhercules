@@ -1,6 +1,6 @@
-# 👨‍💻 Allo, People!
+#
 
-#### Uthan Hercules
+### Uthan Hercules
 ###### Full Stack Web Developer | Graphic Designer | Writer | RPG Enthusiast | Proud owner of a unique name 🐙
 
 #
