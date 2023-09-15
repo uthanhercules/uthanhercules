@@ -1,7 +1,7 @@
 #
 
 ### Uthan Hercules
-###### Full Stack Web Developer | Graphic Designer | Writer | RPG Enthusiast | Proud owner of a unique name 🐙
+###### Full Stack Web Developer | Graphic Designer | Writer | RPG Enthusiast
 
 #
 
