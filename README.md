@@ -42,7 +42,6 @@ With each stroke of creativity, I seek to leave an imprint on the digital canvas
 
 ## 💼 Currently Working
 - 👨‍💻 Back-nd Developer on [Weedo.it](http://weedo.it/)
-- 👨‍🏫 Full Stack Mentor on [Cubos Academy](https://cubos.academy)
 - ⚔️ Personal Project to Unite Local RPG Players
 
 ## 📡 Let's Connect
