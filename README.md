@@ -41,9 +41,9 @@ With each stroke of creativity, I seek to leave an imprint on the digital canvas
 -   I don't like Social Media
 
 ## 💼 Currently Working
-- 👨‍💻 Back-nd Developer on [Weedo.it](http://weedo.it/)
+- 👨‍💻 Back-end Developer on [Weedo.it](http://weedo.it/)
 - ⚔️ Personal Project to Unite Local RPG Players
 
 ## 📡 Let's Connect
 
-As I said, I don't like Social Media, but you can find me on [LinkedIn](https://www.linkedin.com/in/uthanh/). Connect with me and let's talk 😁
+As I said, I don't like Social Media, but you can contact me via [e-mail](mailto:uthanh@protonmail.com). Let's talk 😁
