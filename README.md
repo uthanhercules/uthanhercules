@@ -41,7 +41,7 @@ With each stroke of creativity, I seek to leave an imprint on the digital canvas
 -   I don't like Social Media
 
 ## 💼 Currently Working
-- 👨‍💻 Back-end Developer on [Weedo.it](http://weedo.it/)
+- 👨‍💻 Tech-leader and Back-end Developer
 - ⚔️ Personal Project to Unite Local RPG Players
 
 ## 📡 Let's Connect
